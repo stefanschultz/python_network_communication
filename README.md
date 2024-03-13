@@ -1,0 +1,1 @@
+This is a simple example for network communication for sockets with UDP and TCP. The server and client are written in Python.
